@@ -8,6 +8,10 @@
 > `layout` 硬依赖（避免设置模态框环境下 layout 缺席导致整个插件不装载）；另加
 > `tests/settings-sections-probe.mjs` 探针。上游版权归 Fishquito7，本仓库不是上游的发布渠道。
 
+> **拥有**：`settings.section`：技能与 MCP 管理从侧栏 + 中央主区搬进设置分栏。
+> **冲突时**：与上游同 entry id，不能并存；已去掉对 `layout` 服务的硬依赖。
+> **回滚**：整包替换回上游版本（README 顶部记录了两者的全部差异）。
+
 ---
 
 # dsh-skill-mcp-panel
