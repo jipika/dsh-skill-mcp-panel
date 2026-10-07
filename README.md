@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/icon.svg" width="72" alt="dsh-skill-mcp-panel icon">
+</div>
+
 > ### 本地改版快照 · Local fork snapshot
 >
 > **这不是上游官方仓库**，而是我在本机使用的改版快照：基于上游
